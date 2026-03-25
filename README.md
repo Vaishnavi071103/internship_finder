@@ -85,3 +85,5 @@ project/
 - If the first run is slow, wait — preprocessing 8k rows takes ~10–20 seconds.
 - To force reprocess (e.g. after updating the CSV): delete `data/internships_processed.csv`.
 - The TF-IDF model is cached in Streamlit's `@st.cache_resource` so it rebuilds only once per session.
+
+  ```Test```
