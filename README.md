@@ -1,3 +1,4 @@
+Checkout the live app here:  https://internshipfinder-fsistxjp6qdzqkfvdymcyn.streamlit.app/
 # 🎓 Internship Matcher — India 2025
 
 A Streamlit web app that matches you to internships from a ~8,400-listing Indian dataset using an explainable TF-IDF recommender.
